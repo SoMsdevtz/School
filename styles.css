@@ -1,0 +1,23 @@
+/* Add CSS styles for the social icons */
+#social-icons .social-icon {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  background-size: contain;
+  margin-right: 10px;
+}
+#social-icons #facebook-icon {
+  background-image: url(facebook-icon.png);
+}
+#social-icons #twitter-icon {
+  background-image: url(twitter-icon.png);
+}
+#social-icons #instagram-icon {
+  background-image: url(instagram-icon.png);
+}
+
+#news-events {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
